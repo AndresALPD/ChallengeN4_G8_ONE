@@ -1,4 +1,4 @@
-📋 ForoHub API - Challenge Alura ONE
+#📋 ForoHub API - Challenge Alura ONE
 Una API REST completa para gestión de foros desarrollada en Spring Boot con autenticación JWT y base de datos MySQL.
 
 🚀 Características
@@ -42,7 +42,7 @@ bash# Windows
 $env:DB_USERNAME="foro_user"
 $env:DB_PASSWORD="Foro1234!"
 
-# Linux/Mac
+Linux/Mac
 export DB_USERNAME="foro_user"
 export DB_PASSWORD="Foro1234!"
 
